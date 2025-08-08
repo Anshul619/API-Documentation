@@ -3,6 +3,7 @@
 
 # Other Tools
 - [Apiary](https://apiary.io/)
+- [Postman](https://github.com/Anshul619/Testing-QA/blob/main/Tools/Postman.md)
 
 # Key Components
 - [Open API Specification](OpenAPISpec.md) (formerly called Swagger Specification)
